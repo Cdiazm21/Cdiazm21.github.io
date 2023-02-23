@@ -1,68 +1,161 @@
 ---
-title: Sample Post
+title: Practica 9
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: ../imagenes/practica9/logo9.png
+description: La practica 9 trata de instalar Wordpress de 3 formas distintas.
 tags:
 - sample
 - post
 - test
 ---
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+Este post nos mostrara la practica 9. Esta practica fue realizada durante el grado superior de Administracion de Sistemas Informaticos en Red y estamos dentro del modulo de Implantacion de Aplicaciones Web:
 
 ---
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+# Practica 9
+Para esta practica vamos a dividirlo en 3 fases, fase 0, fase 1 y fase2.
+Vamos a empezar por la fase 00.
 
-**Bold Text in the post will look like:**<br>
-**This text is Bold**
+# Fase 0
 
-**Italic Text in the post will look like:**<br>
-*This text is Italic*
+Para la fase 0 vamos a necesitar unicamente una maquina donde vamos a meter todo lo necesario.
+Lo primero que vamos a hacer es crearnos un archivo de install_lamp.yml donde vamos a realizar las instalaciones del servidor Apache2 y de MYSQL:
 
-> Quotes on your post will look like this
+![](../imagenes/practica9/5.PNG)
 
-`Codes on your post will look like this`
+Ahora vamos a crear otro archivo llamado deploy_wordpress.yml donde vamos a empezar por instalarnos unzip y despues wordpress:
 
-**Link in the post will look like:**<br>
-[This is a link](#)
+![](../imagenes/practica9/6.PNG)
 
-**Bullet list in the post will look like:**
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+Ahora vamos a descomprimir wordpress con unzip y vamos a darle permisos de usuario y grupo a www-data:
 
-**Number list in the post will look like:**
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
-5. Item 5
+![](../imagenes/practica9/7.PNG)
 
-**Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
+Ahora vamos a instalar el gestor de paquetes Python 3, el módulo pypmysql y vamos a crearnos la Base de datos y el usuario de Wordpress:
 
-**Normal text in the post will look like**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
+![](../imagenes/practica9/8.PNG)
 
-Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.
+Ahora vamos a configurar las variables de conexión:
 
-Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.
+![](../imagenes/practica9/9.PNG)
 
-Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.
+Añadiendo WP_HOME Y WP_SITEURL a wp-config.php:
+
+![](../imagenes/practica9/10.PNG)
+
+Configurando las variables de wp-blog-header y vamos a darle permisos de usuario y grupo a www-data:
+
+![](../imagenes/practica9/11.PNG)
+
+Ahora vamos a hacer la instalación de certbot. 
+Para esto antes debemos instalarnos snap.
+
+![](../imagenes/practica9/12.PNG)
+
+Voy a mostrar mi inventario:
+
+![](../imagenes/practica9/13.PNG)
+
+Voy a mostrar las variables usadas para esta fase 0:
+
+![](../imagenes/practica9/14.PNG)
+
+Ahora vamos a comprobar que nos funciona, para eso vamos a irnos a nuestro navegador web y vamos a escribir nuestro dominio:
+
+![](../imagenes/practica9/1.PNG)
+
+Como vemos nos sale para seleccionar nuestro idioma en la pagina de wordpress.
+Una vez seleccionado tenemos que rellenar lo que nos pone con nuestros datos:
+
+![](../imagenes/practica9/2.PNG)
+
+Una vez hecho esto inicias sesión:
+
+![](../imagenes/practica9/3.PNG)
+
+Ya deberias de estar en la pagina de wordpress:
+
+![](../imagenes/practica9/4.PNG)
+
+# Fase 1
+
+Ahora vamos a empezar la fase 1. Para esta fase vamos a necesitar dos máquinas funcionando, una que se encargara del servidor web y otra de MYSQL.
+
+Vamos a empezar por explicar el install_deploy que sera donde estara la instalación de MYSQL:
+
+![](../imagenes/practica9/18.PNG)
+
+Ahora vamos a irnos al install_frontend donde vamos a instalarnos el servidor Apache:
+
+![](../imagenes/practica9/19.PNG)
+
+Ahora vamos a explicar el deploy_backend,aqui sera donde vamos a crearnos la base de datos de wordpress y el usuario:
+
+![](../imagenes/practica9/20.PNG)
+
+Ahora vamos a irnos al deploy_wordpress, que sera la configuracion de la maquina frontend.
+Esto no va a cambiar mucho de la anterior fase. Nos descargamos wordpress y lo descomprimimos:
+
+![](../imagenes/practica9/21.PNG)
+
+Configuramos las variables de conexion de DB_USER, DB_PASS, DB_HOST y añadimos WP_HOME Y WP_SITEURL a wp-config.php
+
+![](../imagenes/practica9/22.PNG)
+
+Ahora vamos a Cnfiguramos las variables de wp-blog-header y vamos a añadir permisos de usuario y grupo a www-data
+
+![](../imagenes/practica9/23.PNG)
+
+Por ultimo nos queda instalar certbot:
+
+![](../imagenes/practica9/12.PNG)
+
+Las variables que he usado son las mismas que antes pero cambiando en este caso el dominio y el host privado por la ip privada de mi maquina backend:
+
+![](../imagenes/practica9/24.PNG)
+
+Para comprobar que me funciona le he cambiado el dominio de antes pero los pasos son los mismos:
+
+![](../imagenes/practica9/15.PNG)
+
+![](../imagenes/practica9/16.PNG)
+
+![](../imagenes/practica9/17.PNG)
+
+* Fase 02
+
+Ahora vamos a explicar la fase 02. 
+Para esta fase vamos a necesitar un total de 5 maquinas. Una backend donde se encuentra la basde de datos MYSQL, dos maquinas frontend donde se encuentras el servidor apache, una maquina parael servidor nfs y por ultimo una maquina balanceadora donde tendra un proxy inverso.
+
+Como ya he explicado el backend y los frontend  en la anterior fase, voy a explicar directamente lo que van a tener mis máquinas nfs y balanceador.
+
+Empezamos por la máquina nfs.
+Podemos crearnos dos yml, uno que sera para el cliente nfs que seran nuestras dos maquinas frontend y otra para el servidor nfs que sera nuestra propia maquina nfs.
+
+Lo que tendran nuestros clientes sera la instalación del cleinte nfs y el directorio compartido:
+
+![](../imagenes/practica9/25.PNG)
+
+Nuestro servidor nfs tendrá la instalacion del servidor nfs, la creacion del directorio y pasamos el archivo de conf a /etc/exports
+
+![](../imagenes/practica9/26.PNG)
+
+Ahora vamos a irnos a nuestro balanceador donde vamos a instalarnos los modulos del proxy inverso:
+
+![](../imagenes/practica9/27.PNG)
+
+Configuramos los ficheros .conf:
+
+![](../imagenespractica9/28.PNG)
+
+Instalamos certbot:
+
+![](../imagenes/practica9/29.PNG)
+
+Las variables que he usado son:
+
+![](../imagenes/practica9/24.PNG)
 
 **Giphy Gifs will look like:**<br>
 <iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
