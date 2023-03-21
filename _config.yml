@@ -43,7 +43,7 @@ disqus-shortname: Carlos
 # Name of the Author
 author-name: Carlos
 # URL for the Image of the Author
-author-image: https://github.com/Cdiazm21/Cdiazm21.github.io/blob/master/imagenes/about/carlos.jpeg
+author-image: /imagenes/about/carlos.jpeg
 # 60 Words About the Author
 author-about: Esta web es una practica del grado superior de ASIR. Tambien servira para mis futuros proyectos.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
