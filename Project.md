@@ -1,5 +1,5 @@
 ---
-layout: project
+data: project
 title: Proyectos
 ---
 
