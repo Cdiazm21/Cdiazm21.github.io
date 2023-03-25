@@ -22,17 +22,14 @@ heroimage: /imagenes/about/carlos.jpeg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: Carlos@gmail.com
-facebook_username: Carlos
-twitter_username: Carlos
-instagram_username: Carlos
-linkedin_username: Carlos
-github_username:  carlos
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+email: cdiazmaguadulce@gmail.com
+facebook_username: Carlos Diaz Montes
+twitter_username: Carlosdm_21
+instagram_username: carlosdm_21
+linkedin_username: carlos Díaz Montes
+github_username:  Cdiazm21
+youtube_channel_id: UCHhXWUvoyT-zyamYstqFjKw
+spotify_username: cdiazmaguadulce
 
 # Google Analytics
 google-analytics: UA-163806439-1
@@ -45,7 +42,7 @@ author-name: Carlos
 # URL for the Image of the Author
 author-image: /assets/images/carlos.jpeg
 # 60 Words About the Author
-author-about: Esta web es una practica del grado superior de ASIR. Tambien servira para mis futuros proyectos.
+author-about: Esta web es una forma de mostrar mis proyectos realizados, mis cursos realizados, mi curriculum... Es una forma de mostrar lo que soy para las empresas a las que se esten replanteando contratarme.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Cdiazm21 
 
