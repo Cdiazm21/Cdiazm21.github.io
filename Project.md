@@ -1,4 +1,4 @@
 ---
-layout: Project
-title: Project
+layout: project
+title: Proyectos
 ---
