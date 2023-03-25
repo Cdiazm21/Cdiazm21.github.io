@@ -8,7 +8,7 @@ layout: page
 
 ## Curso de ssh
 
-[![Curso de ssh](https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg)](prueba1.html)
+[![Curso de ssh](https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg)](pruebas/prueba1.html){width=500 height=300}
 
 
 
