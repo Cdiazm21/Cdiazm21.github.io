@@ -1,6 +1,6 @@
 - name: Primer proyecto
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
+  link: https://cdiazm21.github.io/project
   description: Aqui esta nuestro primer proyecto
 - name: Segundo proyecto
   link:

@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Proyectos
+title: Cursos de Informatica
 ---
 
