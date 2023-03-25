@@ -1,20 +1,35 @@
-- name: Primer proyecto
+- name: Curso SSH
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://cdiazm21.github.io/project
-  description: Aqui esta nuestro primer proyecto
-- name: Segundo proyecto
+  description: SSH:imprescindible en tiempos modernos
+- name: Curso Terraform
   link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: Aqui esta nuestro segundo proyecto
-- name: Tercer proyecto
+  description: Curso de terraform online
+- name: Curso PHP y MYSQL
   link:
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: Aqui esta nuestro tercer proyecto
-- name: Cuarto proyecto
+  description: Curso de PHP y MYSQL:Creando sitios dinámicos
+- name: Curso PHP
   link:
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Aqui esta nuestro cuarto proyecto
-- name: Quinto proyecto
+  description: Curso PHP para principiantes
+- name: Curso GIT
   link:
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: Aqui esta nuestro quinto proyecto
+  description: Curso de Git
+
+- name: Curso de Docker
+  link:
+  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  description: Curso de Docker para Desarrolladores
+
+- name: Curso Ansible
+  link:
+  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  description: Curso de Despliegues con Ansible
+
+- name: Curso Apache 2.4
+  link:
+  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  description: Curso de Servidor Web Apache 2.4
