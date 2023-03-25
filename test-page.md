@@ -3,12 +3,14 @@ title: Test Page
 layout: page
 ---
 
-# This is heading 1
-## This is heading 2
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+# Cursos de informatica prueba
+
+
+## Curso de ssh
+
+![Curso de ssh](https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg)(prueba1.html)
+
+
 
 [This is a link](#)
 
