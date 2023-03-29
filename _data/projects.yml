@@ -21,15 +21,15 @@
 
 - name: Curso de Docker
   link: https://cdiazm21.github.io/cursos/docker.pdf
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  image: https://i.pinimg.com/564x/79/62/fd/7962fd216b9db44cddd81bcce68f1097.jpg
   description: Curso de Docker para Desarrolladores
 
 - name: Curso Ansible
   link: https://cdiazm21.github.io/cursos/ansible.pdf
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  image: https://i.pinimg.com/564x/f2/39/d4/f239d4cc0af3acfd40053f543033046a.jpg
   description: Curso de Despliegues con Ansible
 
 - name: Curso Apache 2.4
   link: https://cdiazm21.github.io/cursos/Apache24.pdf
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  image: https://i.pinimg.com/564x/e7/67/10/e76710600b0b46b62c37e15174c0f661.jpg
   description: Curso de Servidor Web Apache 2.4
