@@ -3,33 +3,33 @@
   link: https://cdiazm21.github.io/cursos/cursossh.pdf
   description: SSH:imprescindible en tiempos modernos
 - name: Curso Terraform
-  link:
+  link: https://cdiazm21.github.io/cursos/terraform.pdf
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: Curso de terraform online
 - name: Curso PHP y MYSQL
-  link:
+  link: https://cdiazm21.github.io/cursos/mysqlyphp.pdf
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
   description: Curso de PHP y MYSQL:Creando sitios dinámicos
 - name: Curso PHP
-  link:
+  link: https://cdiazm21.github.io/cursos/php.pdf
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: Curso PHP para principiantes
 - name: Curso GIT
-  link:
+  link: https://cdiazm21.github.io/cursos/git.pdf
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: Curso de Git
 
 - name: Curso de Docker
-  link:
+  link: https://cdiazm21.github.io/cursos/docker.pdf
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: Curso de Docker para Desarrolladores
 
 - name: Curso Ansible
-  link:
+  link: https://cdiazm21.github.io/cursos/ansible.pdf
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: Curso de Despliegues con Ansible
 
 - name: Curso Apache 2.4
-  link:
+  link: https://cdiazm21.github.io/cursos/Apache24.pdf
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: Curso de Servidor Web Apache 2.4
