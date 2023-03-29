@@ -1,7 +1,7 @@
 ---
 title: Practicas en empresas
 layout: post
-post-image: https://i.pinimg.com/564x/2e/0b/b7/2e0bb7f5a132c48b631a0f0425fe1318.jpg
+post-image: https://i.pinimg.com/564x/50/4f/3a/504f3ae50455814edb21d0b9b3f18596.jpg
 description: Aqui voy a ir poniendo lo que voy haciendo en mi dia a dia durante las practicas que estoy realizando en la empresa Almeriweb.
 tags:
 - how to
