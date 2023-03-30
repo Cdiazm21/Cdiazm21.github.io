@@ -46,7 +46,7 @@ Después he estado buscando temas donde inspirarme para hacer una página de pru
 
 Aqui dejo una muestra de lo que he estado realizando y en caso de clicar en la imagen te llevara a la pagina por si quieres mirarla más a fondo.
 
-[![Imagen de ANDA](../imagenes/almeriweb/30-03-2023.PNG)](https://carlosandaprueba.wordpress.com/)
+[![Imagen de ANDA](../imagenes/almeriweb/30-03-2023.PNG)](https://carlosandaprueba.wordpress.com/){:target="_blank"}
 
 
 Por último, he estado buscando algun curso de informatica que pueda hacer durante estos 3 meses, y por ahora voy a hacer uno de wordpress y otro de ciberseguridad.
