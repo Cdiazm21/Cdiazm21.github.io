@@ -49,6 +49,11 @@ Aqui dejo una muestra de lo que he estado realizando y en caso de clicar en la i
 [![Imagen de ANDA](../imagenes/almeriweb/30-03-2023.PNG)](https://carlosandaprueba.wordpress.com/){:target="_blank"}
 
 
+Por la noche hemos tenido una reunión con Tom donde me ha enseñado a publicar las noticias y tambien he realizado mi primera publicación en Interalmeria.
+
+
 Por último, he estado buscando algun curso de informatica que pueda hacer durante estos 3 meses, y por ahora voy a hacer uno de wordpress y otro de ciberseguridad.
 
 ## 31/03/2023
+
+Hoy al ser viernes le dedico poco tiempo asique he avanzado un poco en la pagina web de ANDA (enlace arriba)
