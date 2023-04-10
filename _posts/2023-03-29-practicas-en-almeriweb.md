@@ -67,3 +67,12 @@ He pensado en estudiar la reparacion de telefonos móviles, algo que me dijo Tom
 
 
 Hoy he empezado temprano teletrabajando con el tema de la página web ANDA y mas tarde he ido a las oficinas.
+
+
+En las oficinas hemos estado viendo un poco los proyectos que vamos a hacer y hemos empezado a enlazar cables. Despues nos hemos ido a la empresa de Candil(una radio de huercal) y hemos estado ayudando en unos cambios que querian hacer y despues Tom nos ha explicado como funciona todo ahi ya que fue el quien lo hizo.
+
+
+Hoy he dedicado la tarde a aprender sobre el tema de los moviles y por la noche he estado subiendo las publicaciones para interalmeria.
+
+
+## 11/04/2023
