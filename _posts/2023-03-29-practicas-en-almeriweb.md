@@ -57,3 +57,13 @@ Por último, he estado buscando algun curso de informatica que pueda hacer duran
 ## 31/03/2023
 
 Hoy al ser viernes le dedico poco tiempo asique he avanzado un poco en la pagina web de ANDA (enlace arriba)
+
+## 10/04/2023
+
+Hoy volvemos de las vacaciones de Semana Santa, durante estas vacaciones he estado pensando mucho en que nuevas cosas voy a querer estudiar.
+
+
+He pensado en estudiar la reparacion de telefonos móviles, algo que me dijo Tom que nos podria enseñar asique se lo propondre empezar.
+
+
+Hoy he empezado temprano teletrabajando con el tema de la página web ANDA y mas tarde he ido a las oficinas.
