@@ -76,3 +76,26 @@ Hoy he dedicado la tarde a aprender sobre el tema de los moviles y por la noche 
 
 
 ## 11/04/2023
+
+Esta mañana la he dedicado a terminar de publicar los videos de toda la semana para ir quitandome trabajo, aparte he estado mirando cosas de wordpress para ver si podia mejorar la página web.
+
+
+Por la tarde he estado con el tema de los moviles por mi cuenta, donde me han dado 3 moviles.
+
+
+El primer movil ha sido un huaweiY300 que realmente no he tocado muhco, investigando un poco por internet he dado con el fallo que suele tener y lo he arreglado.
+
+
+El segundo movil era un blackberry 8900, que le he cambiado la bateria por otro que tenia en mi casa que si funcionaba y ha funcionado asique el problema residia en la bateria.
+
+
+El último creo que era un iphone 5, ya que ni se enciende ni nada, este al abrirlo no se mostraba como en los tutoriales de internet, he visto que tenia una placa de metal que no he sabido ni como quitarla, por lo visto esta placa debería estar pegada a la pantalla pero he decidido para con el iphone y ya preguntare a alguien que tenga más conocimientos que yo.
+
+
+Al acabar el dia he publicado las 4 noticias que tenian que ser para mañana.
+
+
+Al llevar varios días trabajando con Tom y con el teletrabajo, siento que cada vez hago las cosas mas rápido, tengo más motivación por la informática y lo más importante estoy aprendiendo(aunque algunas cosas sean basicas).
+
+
+## 12/04/2023
