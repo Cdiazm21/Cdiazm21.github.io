@@ -99,3 +99,32 @@ Al llevar varios días trabajando con Tom y con el teletrabajo, siento que cada 
 
 
 ## 12/04/2023
+
+
+Hoy he estado por la mañana temprano cogiendo ideas de otras páginas y haciendo cambios en la página de ANDA de los cambios que me pedía Tom.
+
+
+Más tarde he ido a la oficina y hoy hemos estado con los cables detectando que cables eran y a los que les faltaba el cabo del RJ45 B se los he estado poniendo, que me ha venido bien ya que habia hecho dos en toda mi vida.
+
+
+Por la tarde he vuelto a la oficina y he estado mirando con Tom posibles proyectos de futuro y me ha encargado un servidor antiguo que tiene investigar sobre el.
+
+
+Por la noche me he dedicado mas que a publicar las noticias del día y un nuevo video.
+
+
+## 13/04/2023
+
+Por la mañana hemos estado en teletrabajo, el cual he estado un poco investigando sobre el servidor y sobre wordpress.
+
+
+Por la tarde hemos estado Tom y yo arreglando una impresora(sin éxito) y más tarde me he quedado terminando de poner los cabo a los cables y una vez hecho esto los he ordenado.
+
+
+Más tarde Tom me ha pedido que busque en casa errores en la página del ayuntamiento de huercal y le envíe un informe sobre estos errores y cambios que proponga.
+
+
+Para finalizar el día hago las publicaciones de las noticias.
+
+
+## 14/04/2023
