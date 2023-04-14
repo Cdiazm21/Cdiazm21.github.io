@@ -128,3 +128,9 @@ Para finalizar el día hago las publicaciones de las noticias.
 
 
 ## 14/04/2023
+
+
+Hoy he tenido un dia tranquilo donde voy a investigar sobre wordpress, voy a hacer unos planos de la oficina para señalar donde estan los cables con sus respectivos números.
+
+
+Más tarde voy a hacer las publicaciones del fin de semana para que se publiquen el lunes. Me queda pendiente buscar información de wordpress y sobre el servidor que quiere Tom instalar.
