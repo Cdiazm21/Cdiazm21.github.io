@@ -130,7 +130,31 @@ Para finalizar el día hago las publicaciones de las noticias.
 ## 14/04/2023
 
 
-Hoy he tenido un dia tranquilo donde voy a investigar sobre wordpress, voy a hacer unos planos de la oficina para señalar donde estan los cables con sus respectivos números.
+Hoy he tenido un dia tranquilo donde voy a investigar sobre wordpress, voy a hacer unos planos de la oficina para señalar donde estan los cables con sus respectivos números. Tambien me he descargado wordpress y he intentado pasar la pagina de ANDA a ese wordpress pero estoy teniendo problemas.
 
 
 Más tarde voy a hacer las publicaciones del fin de semana para que se publiquen el lunes. Me queda pendiente buscar información de wordpress y sobre el servidor que quiere Tom instalar.
+
+
+## 17/04/2023
+
+
+Por la mañana he estado intentando configurar correctamente lo de wordpress con la página de ANDA, ya que al principio no me dejaba poner el contenido que habia exportado-importado como página de inicio. Cuando he solucionado este problema me he dado cuenta que lo que exporta es una versión antigua de la página xd.
+
+
+Por la tarde he ido a la oficina y hemos estado hablando de un nuevo proyecto que le han pedido a Tom. Este proyecto era una página de un hombre que hace musica y parkour. Nos pedia que hicieramos algo parecio a otra página, pero Tom quiere que intente ir a más y hemos estado sacando ideas. Más tarde he estado ayudando a mi compañero a subir videos y noticias a interalmeria ya que el no sabia y esta semana le tocaba a el hacerse cargo.
+
+
+## 18/04/2023
+
+
+Hoy por la mañana he estado por mi cuenta haciendo la página del parkour y dando las ideas que podriamos hacer, aparte he estado aprendiendo mas de elementary.
+
+
+Me he puesto a hacer el tfg de mi grado y he decidido que cuando vaya a terminarlo lo publicare en otro post. He pensado en hacerlo de Análisis forense de Sistemas.
+
+
+Por la tarde he ido a la oficina y hemos estado hablando Tom y yo sobre las distintas opciones que tenemos para poder crear la página de parkour. He aprendido mucho hoy de Tom y me ha enseñado como se utiliza infinity y para que sirve.
+
+
+Por la noche he estado investigando sobre una aplicacion llamada "interactrapp" en la cual vamos a crear videos interactivos en la web del parkour.
