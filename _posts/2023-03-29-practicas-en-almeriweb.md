@@ -158,3 +158,19 @@ Por la tarde he ido a la oficina y hemos estado hablando Tom y yo sobre las dist
 
 
 Por la noche he estado investigando sobre una aplicacion llamada "interactrapp" en la cual vamos a crear videos interactivos en la web del parkour.
+
+
+## 19/04/2023
+
+
+Por la mañana he estado creando los distintos diseños, unas 15 opciones a elegir, despues he creado el video interactivo, donde he creado dos opciones a enviar al cliente, una con imagenes y otra con botones.
+
+
+Por la tarde hemos estado hablando de la página y tom me ha estado ayudando con mis diseños y dandome ideas, despues le he mejorado el informe y me ha enseñado a crear una propueseta para el cliente junto con el presupuesto. Tambien hemos estado hablando de socialmedia(la app donde publicamos las redes sociales de Interalmeria) y he ayudado a solucionar el problema que habia de publicaciones en Instagram.
+
+
+## 20/04/2023
+
+
+
+
