@@ -165,12 +165,42 @@ Por la noche he estado investigando sobre una aplicacion llamada "interactrapp" 
 
 Por la mañana he estado creando los distintos diseños, unas 15 opciones a elegir, despues he creado el video interactivo, donde he creado dos opciones a enviar al cliente, una con imagenes y otra con botones.
 
+[![Imagen de ANDA](../imagenes/almeriweb/1.PNG)]
 
-Por la tarde hemos estado hablando de la página y tom me ha estado ayudando con mis diseños y dandome ideas, despues le he mejorado el informe y me ha enseñado a crear una propueseta para el cliente junto con el presupuesto. Tambien hemos estado hablando de socialmedia(la app donde publicamos las redes sociales de Interalmeria) y he ayudado a solucionar el problema que habia de publicaciones en Instagram.
+
+Por la tarde hemos estado hablando de la página y tom me ha estado ayudando con mis diseños y dandome ideas, despues le he mejorado el informe y me ha enseñado a crear una propuesta para el cliente junto con el presupuesto. Tambien hemos estado hablando de socialmedia(la app donde publicamos las redes sociales de Interalmeria) y he ayudado a solucionar el problema que habia de publicaciones en Instagram.
 
 
 ## 20/04/2023
 
 
+Hoy hemos estado hablando de la página de la cual hemos creado diseños de las distintas partes ya que como ibamos a tener el jueves la llamada con el cliente nos teniamos que dar prisa asique simplemente hemos estado con los diseños.
 
 
+Hemos empezado por la mañana haciendo un diseño de la tarjeta de regalo que queria el cliente, en mi caso he hecho dos, dejare una imagen de una para dejar un ejemplo, más tarde he estado aprendiendo un poco de woocomerce para crear una tienda y para terminar el dia he aprendido a usar learn press que es un plugin que sirve para hacer un curso.
+
+
+Dejo ejemplos del diseño de cada cosa que hemos hecho. Empezamos por la tarjeta de regalo:
+
+[![Imagen de tarjeta regalo](../imagenes/almeriweb/tarjetaregalo.png)]
+
+Ahora vamos por la tienda(solo pongo una imagen pero le enseñamos varias más):
+
+[![Imagen de ANDA](../imagenes/almeriweb/7.PNG)]
+
+Y una pequeña muestra de como sería el curso:
+
+[![Imagen de ANDA](../imagenes/almeriweb/3.PNG)]
+
+
+Por la noche hemos tenido una charla Tom y yo en donde le daba el presupuesto sin precios a Tom y donde le mostraba todo lo que había hecho. Por último tuvo Tom la reunión con el cliente donde decidio aceptar nuestras propuestas.
+
+
+Más tarde Tom me envio los presupuestos con sus precios, eso supongo que me servira por si viene otro cliente ya hago yo los preciós definitivos. Muy contento en general ya que despues de tanto esfuerzo hemos conseguido que el cliente nos contratase.
+
+## 21/04/2023
+
+Hoy hemos estado un poco de descanso ya que despues de 3 días muy intensos con la página queriamos descansar un poco. De todas maneras he preparado ya todos los videos de la semana que tenia que publicar para que no se me acumule el trabajo la semana que viene.
+
+
+## 24/04/2023
