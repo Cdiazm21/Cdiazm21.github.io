@@ -204,3 +204,21 @@ Hoy hemos estado un poco de descanso ya que despues de 3 días muy intensos con 
 
 
 ## 24/04/2023
+
+
+Hoy hemos tenido una reunión con el cliente donde hemos estado hablando de como vamos a hacer la página, de las ideas y de las futuras ideas que vamos a poder hacer más adelante.
+
+
+Tambien por la noche he estado haciendo las noticias de InterAlmería.
+
+
+## 25/04/2023
+
+
+Hoy hemos estado mirando un servidor y más tarde ha venido el cliente de la página web del parkour donde nos ha pasado los contenidos de la página y hemos estado hablando de como va a querer los videos, de las distintas interacciones de videos que quiere, de como va a hacer el curso.
+
+
+Tambien le he estado mostrando el posible contenido que puede poner en la presentación del video.
+
+
+Por la noche he hecho las noticias de InterAlmería.
