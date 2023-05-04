@@ -222,3 +222,61 @@ Tambien le he estado mostrando el posible contenido que puede poner en la presen
 
 
 Por la noche he hecho las noticias de InterAlmería.
+
+
+## 26/04/2023
+
+
+Hoy hemos estado mirando como hacer que funcione los cables de telefonica y hemos estado probando algunos telefonos que tenia Tom por la oficina.
+
+
+Por la noche he hecho las noticias de InterAlmería.
+
+
+## 27/04/2023
+
+
+Hoy no he ido a las practicas ya que me encuentro enfermo, aunque he estado haciendo por la noche investigación de como recuperar la contraseña de Instagram de Interalmeria y por la noche he hecho las noticias de InterAlmería.
+
+
+## 28/04/2023
+
+
+Hoy al ser viernes tendria que haber asistido a clase por la mañana pero al seguir malo no he ido y Tom me ha dicho que descansara y solo he hecho por la noche las publicaciones de Interalmeria para que estuvieran listas para el lunes.
+
+
+## 03/05/2023
+
+
+Después del puente y ya recuperado al llegar a la oficina hemos estado hablando Tom y yo del tema servidores, alojamiento etc... para la página de josefca. Me ha enseñado a como administrar el servidor desde webmin y vesta.
+
+
+Vesta era algo que ni conocia y me ha parecido muy interesante y ya que me ha dado permiso para investigar ahi lo hare pero con mucha precaucion, ya que no quiero romper el servidor.
+
+
+Tambien hemos estado con los cables de telefonía.
+
+
+## 04/05/2023
+
+
+Hemos estado haciendo copias de seguridad en el servidor y Tom me ha pasado una copia de seguridad de la pagina de josefca para que vaya probando cosas en mi propio servidor xampp.
+
+
+Tambien hemos estado hablando de los distintos proyectos que ha tenido y de sus complicaciones y de las soluciones de los mismo. Esto me ha hecho pensar que lo más importante es saber como poder solucionar el problema y lo bien que se paga eso.
+
+
+## 05/05/2023
+
+
+Hoy he estado intentando instalar la pagina web en mi servidor xampp pero me esta dando muchos problemas. Lo más probable esque tenga que pedirle ayuda a Tom.
+
+
+Tambien me he puesto a mirar un poco el servidor y a toquetearlo con cuidado.
+
+
+## 06/05/2023
+
+
+Hoy al ser viernes he estado por la mañana en clase y por la tarde la he dedicado a investigar que lms es mejor para la pagina y tambien mirando el tema economico.
+
