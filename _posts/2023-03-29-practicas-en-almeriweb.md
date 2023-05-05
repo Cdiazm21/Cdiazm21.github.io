@@ -278,5 +278,18 @@ Tambien me he puesto a mirar un poco el servidor y a toquetearlo con cuidado.
 ## 06/05/2023
 
 
-Hoy al ser viernes he estado por la mañana en clase y por la tarde la he dedicado a investigar que lms es mejor para la pagina y tambien mirando el tema economico.
+Hoy al ser viernes he estado por la mañana en clase con el proyecto de fin de curso.
+
+
+Por la tarde he estado haciendo los videos de la proxima semana aunque no los he terminado todos. Más tarde me ha pedido Tom que mirara como hacer programaciones en las publicaciones de instagram. No he tenido muy claro el porque en esta cuenta no funciona, pero por lo que he leído, en moviles iphone se puede hacer esas programaciones de publicaciones. Voy a probar otro dia a intentarlo en un MAC a ver si me deja.
+
+
+Por terminar el dia he estado haciendo publicaciones en instagram sin programación de hora.
+
+
+
+
+
+
+
 
