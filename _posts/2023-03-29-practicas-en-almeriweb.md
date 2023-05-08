@@ -287,6 +287,19 @@ Por la tarde he estado haciendo los videos de la proxima semana aunque no los he
 Por terminar el dia he estado haciendo publicaciones en instagram sin programación de hora.
 
 
+## 08/05/2023
+
+
+Hoy es puente en Huercal de Almería (donde se ubica la oficina), aun así he decidido ponerme a trabajar un poco para adelantar las cosas.
+He estado haciendo las publicaciones de instagram de este fin de semana, he estado editando los videos que me faltaban de la semana para Interalmeria.
+
+
+Por la tarde he estado haciendo un poco de la página y del TFG.
+
+
+## 09/05/2023
+
+
 
 
 
