@@ -300,9 +300,18 @@ Por la tarde he estado haciendo un poco de la página y del TFG.
 ## 09/05/2023
 
 
+He estado hoy haciendo teletrabajo, he estado investigando los mejores LMS y he creado un informe para Tom, tambien he pasado todo el contenido de la pagina web de josefca a mi ordenador principal para posteriormente pasarloal servidor y mostrarselo a josefca.
 
 
+Por la tarde le he dedicado tiempo a las noticias de Interalmeria y a su instagram.
 
 
+## 10/09/2023
+
+
+Por la mañana he ido a la oficina y ya he sabido pq no me funcionaba la pagina de josefca, el error estaba en que no se habian pasado correctamente todos los archivos. Ya hoy he empezado con los LMS.
+
+
+Por la tarde he estado haciendo noticias y tambien a su instagram, tambien estuve investigando como poder mejorar el Landing Page de la pagina de josefca.
 
 
