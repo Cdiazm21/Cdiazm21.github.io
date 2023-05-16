@@ -306,7 +306,7 @@ He estado hoy haciendo teletrabajo, he estado investigando los mejores LMS y he 
 Por la tarde le he dedicado tiempo a las noticias de Interalmeria y a su instagram.
 
 
-## 10/09/2023
+## 10/05/2023
 
 
 Por la mañana he ido a la oficina y ya he sabido pq no me funcionaba la pagina de josefca, el error estaba en que no se habian pasado correctamente todos los archivos. Ya hoy he empezado con los LMS.
@@ -315,3 +315,27 @@ Por la mañana he ido a la oficina y ya he sabido pq no me funcionaba la pagina 
 Por la tarde he estado haciendo noticias y tambien a su instagram, tambien estuve investigando como poder mejorar el Landing Page de la pagina de josefca.
 
 
+## 11/05/2023
+
+
+Por a mañana he estado trabajando desde casa, investigando para la pagina y ya haciendo un documento donde desarrollo las ideas que estoy teniendo para mas tarde enseñarselo a Tom. Por la tarde le he dedicado tiempo a las noticias que tenia que investigar y me ha dicho Tom que le enseñe algo de la pagina para la semana que viene.
+
+
+## 12/05/2023
+
+
+Los viernes por la mañana estoy en clase haciendo el Trabajo de Fin de Grado y por la tarde nos la hemos tomado libre, solo he hecho las noticias de instagram y preparado las noticias del lunes.
+
+
+## 15/05/2023
+
+
+Me puse por la mañana a desarrolar todas las ideas de la página para enseñarsela a Tom por la tarde. Tuve varios problemas, ya que una vez hice la pagina al resetear el xampp perdi todo lo que tenia hecho y lo tuve que volver a hacer, por otra parte la base de datos siempre me daba problemas la querer importarla de nuevo. Otro problema que tengo esque en wordpress no me deja poner videos de gran tamaño y nose como solucionarlo para el curso.
+
+
+Por la tarde le iba a enseñar la pagina a Tom pero el temprano no podia y yo tarde no podia asique la dejamos para el dia siguiente y hice mas que las publicaciones de instagram.
+
+## 16/05/2023
+
+
+Esta mañana he estado añadiendo el contenido a la pagina web y estoy esperando a Tom para reunirnos y ver que debo de cambiar.
