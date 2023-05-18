@@ -339,3 +339,34 @@ Por la tarde le iba a enseñar la pagina a Tom pero el temprano no podia y yo ta
 
 
 Esta mañana he estado añadiendo el contenido a la pagina web y estoy esperando a Tom para reunirnos y ver que debo de cambiar.
+Estuve cambiando las cosas que me pidio y por la noche estuve haciendo las noticias de Interalmeria.
+
+
+## 17/05/2023
+
+
+Ya tengo creado totalmente la página web de josefca, me falta mirar algunos detalles como el video del landing page que no funciona, los menus de algunas paginas ...
+
+
+Por la noche hice las noticias de Interalmeria
+
+
+## 18/05/2023
+
+
+He estado añadiendo cosas nuevas que se me han ido ocurriendo para la pagina, como un inicio de sesión, una forma de registrarse, una forma para pagos con el propio lms o woocomerce. Por la tarde tuvimos la reunión Tom y yo y ya que estoy bastante avanzado con la página, hemos decidido hacer una copia en su servidor y ya empezar a modificarlo desde ahi. En cuanto Jose me envíe los documentos, videos, texto, certificados ... Podre terminar lo que me falta de la página.
+
+
+Por la noche estuve haciendo las noticias de interalmeria en instagram.
+
+
+## 19/05/2023
+
+
+Hoy descanso un poco de la página y voy a visitar con Tom las instalaciones de Interalmeria y ayudar en lo que me pida.
+
+
+Tambien estoy creando un excel con los distintos precios para learndash, barra de proceso, certificado, pasarelas de pago, membresia, introduccion gratuita.
+
+
+Estoy buscando información para ver si los videos de gran tamaño puedo subirlos a youtube y despues al curso siendo el video privado.
