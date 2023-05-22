@@ -370,3 +370,15 @@ Tambien estoy creando un excel con los distintos precios para learndash, barra d
 
 
 Estoy buscando información para ver si los videos de gran tamaño puedo subirlos a youtube y despues al curso siendo el video privado.
+
+
+## 22/05/2023
+
+
+Esta mañana he estado preparando los videos de la semana y haciendo publicaciones.Tambien he estado haciendo un poco de mi TFG ya que quiero terminarlo para este viernes y si tengo que hacer alguna modificación realizarla con tiempo.
+
+
+Por la tarde he estado haciendo el excel que me pidio Tom.
+
+
+## 23/05/2023
