@@ -382,3 +382,74 @@ Por la tarde he estado haciendo el excel que me pidio Tom.
 
 
 ## 23/05/2023
+
+
+Hoy he estado haciendo la página web, he mandado el excel a Tom y me he puesto a mirar plugins que se podrian incluir en la página.
+
+
+He terminado hoy de hacer los videos de la semana que me faltaban y he hecho las publicaciones de instagram.
+
+
+## 24/05/2023
+
+
+Hoy he ido a la empresa para hablar con Tom de las distintas opciones que tenemos del tema de la página, me ha ayudado con unos problemas que tenía sobre la página.
+
+
+Me ha pedido investigar como hacer de poder subir los videos de las lecciones a su servidor y que esten de tal forma que se puedan compartir al curso pero no sean publicos para nadie más.
+
+Para terminar el dia he hecho las publicaciones de instagram.
+
+
+## 25/05/2023
+
+
+Hoy he esetado desde casa trabajando y he modificado un poco el landing page para que quedase más profesional.
+
+
+Tambien he creado un certificado de que se ha terminado el curso, aqui me ha dado bastantes problemas ya que necesitaba que la fecha en la que terminases el curso se mantuviera constantemente por si quisieras descargar el curso en otra epoca del año.
+
+
+Para terminar el dia he hecho las publicaciones de instagram.
+
+
+## 26/05/2023
+
+
+Hoy al ser viernes he estado por la mañana en el instituto. Por la tarde he estado con la página donde he creado un inicio de sesión y registro dentro del curso.
+
+
+Tambien he realizado por primeravez una prueba de como funcionaria todo, lo unico que me falla es que quiero que cuando pagues el curso automaticamente te permita acceder al curso, pero por ahora lo tengo que hacer manualmente.
+
+Para terminar el dia he hecho las publicaciones de instagram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
