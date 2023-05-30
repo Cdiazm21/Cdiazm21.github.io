@@ -424,7 +424,25 @@ Tambien he realizado por primeravez una prueba de como funcionaria todo, lo unic
 Para terminar el dia he hecho las publicaciones de instagram.
 
 
+## 29/05/2023
 
+
+Hoy he estado con la página web y por la tarde he tenido una reunión con Tom en su casa para hablar de los proyectos futuros.
+
+
+Por la noche he estado haciendo las noticias de Interalmeria.
+
+
+## 30/05/2023
+
+
+Esta mañana nos hemos despertado con un monton de problemas. Socialmonials, donde hacemos las publicaciones de los videos y noticias, ha dejado de funcionar correctamente y las noticias de ayer no las publico, aparte creemos que han hackeado o socialmonials o el facebook y twitter de interalmeria, ya que estan poniendo publicidad a cada rato.
+
+
+Para terminar la mañana, he intentado modificar el algunas cositas de la pagina web de josefca, y me ha saltado un error que se tiene que solucionar desde el servidor de Tom. Por lo que he estado viendo posiblemente el error venga de algun plugin o ha superado el espacio predeterminado.
+
+
+En cualquier caso esta mañana solo hemos tenido problemas.
 
 
 
