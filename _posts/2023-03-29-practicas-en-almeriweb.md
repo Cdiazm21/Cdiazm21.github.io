@@ -445,7 +445,25 @@ Para terminar la mañana, he intentado modificar el algunas cositas de la pagina
 En cualquier caso esta mañana solo hemos tenido problemas.
 
 
+## 31/05/2023
 
+
+Hoy ya hemos solucionado todos los problemas que tuvimos ayer, aparte he terminado por fin toda mi parte de la pagina web del cliente, aun falta la parte del SEO que la iba a hacer Tom y el contenido del curso junto a mas cosas de parte del cliente.
+
+
+Por la tarde he estado haciendo videos y publicaciones para Interalmeria y he estado echando un vistazo a la proxima pagina web.
+
+
+## 01/05/2023
+
+
+Hoy he madrugado y me he puesto a hacer la pagina web nueva, la he dejado casi terminada, solo falta arreglar una cosa, que en la tienda al mostrar los productos, la imagen del producto me sale doble. Mas tarde me ha enviado el cliente una parte del contenido del curso, aunque al haber 12 cuestionarios (mas los que faltan) le he tenido que dedicar bastante tiempo.
+
+
+Por la noche he estado haciendo videos y publicaciones para Interalmeria.
+
+
+## 02/05/2023
 
 
 
