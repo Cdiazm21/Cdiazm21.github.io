@@ -463,14 +463,34 @@ Hoy he madrugado y me he puesto a hacer la pagina web nueva, la he dejado casi t
 Por la noche he estado haciendo videos y publicaciones para Interalmeria.
 
 
-## 02/05/2023
+## 02/06/2023
 
 
+Hoy he realizado un informe sobre los plugins, pasos, videos y cosas distintas que he usado para la pagina del cliente.
 
 
+Por la noche he estado haciendo videos y las noticias que se publican el lunes.
 
 
+## 05/06/2023
 
+
+Hoy he estado haciendo nuevos diseños para las tarjetas de regalo, esta vez más sencillos. Estoy esperando a que por la tarde vamos a tener una reunión para ver que cambios de diseño quiere tener el cliente y me responda a unas preguntas sobre la página. Estas preguntas llevo esperando respuesta como 2 semanas y quiero hacer esos cambios ahora ya que en dos semanas tengo que exponer el tfg.
+
+
+Al final se ha cancelado la reunión y me he puesto a adelantar bastantes videos y he hecho las noticias.
+
+
+## 06/06/2023
+
+
+Hoy tampoco ha podido el cliente reunirse y además me ha dicho que no sabe cuando va a poder. Esto para mi me supone un problema muy grave, ya que el va a querer tener el proyecto a los dos dias y yo voy a tener que dedicarle tiempo al TFG ya que me lo quiero estudiar a fondo para la exposición. De todas maneras he hablado con Tom y mañana vamos a reunirnos el y yo para hablar.
+
+
+Por la noche he estado haciendo videos para adelantar trabajo y publicaciones para Interalmeria.
+
+
+## 07/06/2023
 
 
 
