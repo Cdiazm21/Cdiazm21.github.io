@@ -493,6 +493,83 @@ Por la noche he estado haciendo videos para adelantar trabajo y publicaciones pa
 ## 07/06/2023
 
 
+Hoy al final hemos acrodado de que la reunión la tendremos el lunes 12 y solo he recibido algunos contenido para ir modificando la pagina.
+
+
+Por la noche he estado haciendo videos para adelantar trabajo y publicaciones para Interalmeria.
+
+
+## 08/06/2023
+
+
+Hoy he estado mas bien haciendo el TFG ya que la semana que viene tengo que entregarlo, tambien he estado haciendo algunas modificaciones a diseños como el de las tarjetas de regalo y el certificado.
+
+
+Por la noche he estado haciendo videos para adelantar trabajo y publicaciones para Interalmeria.
+
+
+## 09/06/2023
+
+
+Hoy he estado por la mañana en clase y por la noche he estado haciendo videos para adelantar trabajo y publicaciones para Interalmeria.
+
+
+## 12/06/2023
+
+
+Hoy hemos tenido la reunion donde el cliente ha quedado muy satisfecho con los avances hechos, tambien me ha pedido algunas modificaciones de diseño y sobre el curso. He terminado hoy de añadir algunas cosas que me ha dado del curso.
+
+
+Por la noche he estado haciendo videos y publicaciones para Interalmeria.
+
+
+## 13/06/2023
+
+
+Hoy me he puesto a hacer algunas modificaciones que pedia el cliente como el diseño de la landing page.
+
+
+Por la noche he estado haciendo videos y publicaciones para Interalmeria.
+
+
+## 14/06/2023
+
+
+Hoy he terminado de hacer la pagina con las modificaciones que nos pedia, le he realizado una copia de seguridad y se la he enviado a Tom.
+
+
+Hemos estado intentado ver la mejor forma de pasar el proceso que tenemos en nuestro servidor a el servidor del cliente.
+
+
+Por la noche he estado haciendo videos y publicaciones para Interalmeria.
+
+
+## 15/06/2023
+
+
+El cliente me escribio ayer por la noche para ver si era posible crearle un codigo QR dinamico para unas tarjetas, aunque hemos estado todo el dia hemos podido terminarlo. Al poner el codigo en la camara este te llevara a la landing page de la pagina del parkour
+
+
+Por la noche he estado haciendo videos para adelantar trabajo y publicaciones para Interalmeria.
+
+## 16/06/2023
+
+
+Hoy es mi ultimo dia en la empresa asique hemos terminado el paso por Almeriweb, he terminado pasando todo a su pagina principal y ya he terminado todo. 
+
+
+## Sobre mi experiencia
+
+
+He vivido la parte de despertarme temprano e ir a la oficina los primeros dias y tambien la parte del teletrabajo, casi todo mi etapa en Almeriweb. La verdad que el teletrabajo me ha gustado mucho, ya que simplemente me piden algo y que lo tenga hecho en x tiempoo, entonces da igual si me pongo a las 8 de la mañana o a las 11 de la mañana a trabajar mientras lo tenga.
+
+
+La parte mala que es complicado contactar con Tom cuando hay algun evento especial, esta saturado de trabajo y además no le quiero poner yo más trabajo.
+
+
+En definitiva mi experiencia ha sido muy gratificante, me ha gustado mucho Tom y ha entendido en todo momento que no tenia muchos conocimientos sobre paginas web y me ha ido enseñando poco a poco y al final me ha acabado gustando.
+
+
 
 
 
