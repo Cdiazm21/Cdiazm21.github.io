@@ -1,7 +1,7 @@
 ---
 title: Curso de Especialización de Ciberseguridad
 layout: post
-post-image: ../imagenes/practica14/Fotos/fotociber.jpg
+post-image: ../imagenes/practica14/Fotos/ciberlogo.jpg
 description: En este curso voy a ir haciendo una guía de lo más importante que vamos haciendo cada semana.
 tags:
 - Informática
