@@ -10,9 +10,9 @@ baseurl:
 title: Pagina de Carlos
 # Description of the Site
 description: |
-- paragraph 1
+paragraph 1
 foo bar
-- Lorem ipsum
+Lorem ipsum
 dolor sit amet
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
