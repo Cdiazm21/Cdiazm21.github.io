@@ -10,11 +10,11 @@ baseurl:
 title: Pagina de Carlos
 # Description of the Site
 description: |
-  - Administrador de sistemas informáticos en Red
+  one: - Administrador de sistemas informáticos en Red
   
-  - Y
+  two: - Y
   
-  - Especialista en Ciberseguridad
+  three: - Especialista en Ciberseguridad
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
