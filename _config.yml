@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Pagina de Carlos
 # Description of the Site
-description:
+description: |
 - paragraph 1
   foo bar
 - Lorem ipsum
