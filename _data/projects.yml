@@ -1,3 +1,15 @@
+- name: Curriculum
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  link: https://cdiazm21.github.io/cursos/Curriculum.pdf
+  description: Curriculum de Carlos Diaz Montes
+
+
+- name: Curso OSINT
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  link: https://cdiazm21.github.io/cursos/certificado_curso_osint.pdf
+  description: Curso OSINT. Técnicas de investigación e inteligencia en fuentes abiertas
+
+
 - name: Curso SSH
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: https://cdiazm21.github.io/cursos/cursossh.pdf
