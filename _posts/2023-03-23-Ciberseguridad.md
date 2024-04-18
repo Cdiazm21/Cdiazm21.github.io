@@ -43,19 +43,40 @@ f. Se ha realizado la búsqueda y explotación de vulnerabilidades web  mediante
 
 ***Unidad 3.***
 
-Esta unidad la hemos dividido en 3 partes.
-a. Parte 1: Ataques de diccionarios
-b. Parte 2: Introducción a metaspoloit.
-c. Parte 3: Creación de malware.
+Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros.
+
+a. Se ha recopilado información sobre la red y sistemas objetivo mediante técnicas pasivas.
+b. Se ha creado un inventario de equipos, cuentas de usuario y potenciales vulnerabilidades de la red y sistemas objetivo mediante técnicas activas.
+c. Se ha interceptado tráfico de red de terceros para buscar información sensible.
+d. Se ha realizado un ataque de intermediario, leyendo, insertando y modificando, a voluntad, el tráfico intercambiado por dos extremos remotos.
+e. Se han comprometido sistemas remotos explotando sus vulnerabilidades.
+
 
 [Actividades realizadas en la unidad 3](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/hacking%20etico/Unidad%203)
 
 ***Unidad 4.***
 
+Consolida y utiliza sistemas comprometidos garantizando accesos futuros.
+
+a. Se han administrado sistemas remotos a través de herramientas de línea de comandos.
+b. Se han comprometido contraseñas a través de ataques de diccionario, tablas rainbow y fuerza bruta contra sus versiones encriptadas.
+c. Se ha accedido a sistemas adicionales a través de sistemas comprometidos.
+d. Se han instalado puertas traseras para garantizar accesos futuros a los sistemas comprometidos.
+
+[Actividades realizadas en la Unidad 4]()
+
 ***Unidad 5.***
 
-***Unidad 6.***
+Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas.
 
+a. Se han identificado los distintos sistemas de autenticación web, destacando sus debilidades y fortalezas.
+b. Se ha realizado un inventario de equipos, protocolos, servicios y sistemas operativos que proporcionan el servicio de una aplicación web.
+c. Se ha analizado el flujo de las interacciones realizadas entre el navegador y la aplicación web durante su uso normal.
+d. Se han examinado manualmente aplicaciones web en busca de las vulnerabilidades más habituales.
+e. Se han usado herramientas de búsquedas y explotación de vulnerabilidades web.
+f. Se ha realizado la búsqueda y explotación de vulnerabilidades web mediante herramientas software.
+
+[Actividades realizadas en la Unidad 5]()
 
 [Todas las actividades de Hacking](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/hacking%20etico)
  
@@ -200,6 +221,7 @@ f. Se han incluido las conclusiones y su justificación.
 
 
 [Todas las actividades realizadas en este módulo](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/An%C3%A1lisis%20forense)
+
 **Incidencias de Ciberseguridad**
 
 
