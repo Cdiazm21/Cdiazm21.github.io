@@ -10,22 +10,25 @@ layout: compress
 <body>
     {% include navbar.html %}
 
+    <!-- Hero section -->
     <section class="hero is-fullheight" id="blog">
         <div class="hero-body">
             <div class="container">
                 {% include blogpage-heading.html %}
             </div>
         </div>
+        <!-- Results Container -->
         <div id="results-container"></div>
-        <!--Blog Cards Section-->
+        <!-- Blog Cards Section -->
         {% for post in site.posts %}
             {% include blog-card.html %}
         {% endfor %}
-        </div>
     </section>
     <br>
-    <!--Footer begins here-->
+    
+    <!-- Footer -->
     {% include footer.html %}
+    <!-- Simple Jekyll Search script -->
     <script src="{{site.url}}{{site.baseurl}}/assets/js/simple-jekyll-search.js"></script>
 
     <script>
@@ -37,9 +40,7 @@ layout: compress
             noResultsText: '<div class="subtitle has-text-centered is-uppercase">No Results Found</div><hr class="has-background-black" style="margin: 0.5rem 5rem 2.5rem 5rem">',
             fuzzy: true,
         });
-        </script>
-        
-        
+    </script>       
 </body>
 
 </html>
