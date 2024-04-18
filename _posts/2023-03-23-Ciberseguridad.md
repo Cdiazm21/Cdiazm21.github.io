@@ -300,4 +300,85 @@ f. Se han incluido las conclusiones y su justificación.
 
 **Normativas de Ciberseguridad**
 
+***Unidad 1***
+
+Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.
+
+a. Se han identificado las bases del cumplimiento normativo a tener en cuenta en las organizaciones.
+
+b. Se han descrito y aplicado los principios de un buen gobierno y su relación con la ética profesional.
+
+c. Se han definido las políticas y procedimientos, así como la estructura organizativa que establezca la cultura del cumplimiento normativo dentro de las organizaciones.
+
+d. Se han descrito las funciones o competencias del responsable del cumplimiento normativo dentro de las organizaciones.
+
+e. Se han establecido las relaciones con terceros para un correcto cumplimiento normativo.
+
+[Actividades realizadas en la Unidad 1](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Normativas%20de%20Ciberseguridad/Unidad%201)
+
+***Unidad 2***
+
+Diseña sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación.
+
+a. Se han recogido las principales normativas que afectan a los diferentes tipos de organizaciones.
+
+b. Se han establecido las recomendaciones válidas para diferentes tipos de organizaciones de acuerdo con la normativa vigente (ISO 19.600 entre otras).
+
+c. Se han realizado análisis y evaluaciones de los riesgos de diferentes tipos de organizaciones de acuerdo con la normativa vigente (ISO 31.000 entre otras).
+
+d. Se ha documentado el sistema de cumplimiento normativo diseñado.
+
+[Actividades realizadas en la Unidad 2](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Normativas%20de%20Ciberseguridad/Unidad%202)
+
+***Unidad 3***
+Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los  procedimientos establecidos, recopilando y aplicando las normas vigentes.
+
+a. Se han identificado los riesgos penales aplicables a diferentes organizaciones.
+
+b. Se han implantado las medidas necesarias para eliminar o minimizar los riesgos identificados.
+
+c. Se ha establecido un sistema de gestión de cumplimiento normativo penal de acuerdo con la legislación y normativa vigente (Código Penal y UNE 19.601, entre otros).
+
+d. Se han determinado los principios básicos dentro de las organizaciones para combatir el soborno y promover una cultura empresarial ética de acuerdo con la legislación y normativa vigente (ISO 37.001 entre otros).
+
+[Actividades realizadas en la Unidad 3](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Normativas%20de%20Ciberseguridad/Unidad%203)
+
+***Unidad 4***
+
+Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia.
+
+a. Se han reconocido las fuentes del Derecho de acuerdo con el ordenamiento jurídico en materia de protección de datos de carácter personal.
+
+b. Se han aplicado los principios relacionados con la protección de datos de carácter personal tanto a nivel nacional como internacional.
+
+c. Se han establecido los requisitos necesarios para afrontar la privacidad desde las bases del diseño.
+
+d. Se han configurado las herramientas corporativas contemplando el cumplimiento normativo por defecto.
+
+e. Se ha realizado un análisis de riesgos para el tratamiento de los derechos a la protección de datos.
+
+f. Se han implantado las medidas necesarias para eliminar o minimizar los riesgos identificados en la protección de datos.
+
+g. Se han descrito las funciones o competencias del delegado de protección de datos dentro de las organizaciones.
+
+[Actividades realizadas en la Unidad 4](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Normativas%20de%20Ciberseguridad/Unidad%204)
+
+***Unidad 5***
+
+Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia.
+
+a. Se ha establecido el plan de revisiones de la normativa, jurisprudencia, notificaciones, etc. jurídicas que puedan afectar a la organización.
+
+b. Se ha detectado nueva normativa consultando las bases de datos jurídicas siguiendo el plan de revisiones establecido.
+
+c. Se ha analizado la nueva normativa para determinar si aplica a la actividad de la organización.
+
+d.	 Se ha incluido en el plan de revisiones las modificaciones necesarias, sobre la nueva normativa aplicable a la organización, para un 
+correcto cumplimiento normativo.
+
+e. Se han determinado e implementado los controles necesarios para garantizar el correcto cumplimiento normativo de las nuevas normativas. incluidas en el plan de revisiones.
+
+[Actividades realizadas en la Unidad 5]()
+
+[Todas las Actividades de este módulo](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Normativas%20de%20Ciberseguridad)
 **Bastionado de redes**
