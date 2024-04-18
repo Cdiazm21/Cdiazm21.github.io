@@ -1,4 +1,5 @@
 ---
+lang: es
 title: Curso de Especialización de Ciberseguridad
 layout: post
 post-image: ../imagenes/practica14/Fotos/ciberlogo.jpg
