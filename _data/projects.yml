@@ -9,6 +9,10 @@
   link: https://cdiazm21.github.io/cursos/certificado_curso_osint.pdf
   description: Curso OSINT. Técnicas de investigación e inteligencia en fuentes abiertas
 
+- name: Curso de análisis de malware
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  link: https://cdiazm21.github.io/cursos/certificado_curso_de_análisis_de_malware.pdf
+  description: Curso de análisis de malware
 
 - name: Curso SSH
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
