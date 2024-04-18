@@ -109,7 +109,7 @@ f. Se ha realizado la búsqueda y explotación de vulnerabilidades web mediante 
 **Puesta en Producción Segura**
 
 ***Unidad 1***
-Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.ç
+Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.
 
 a. Se han comparado diferentes lenguajes de programación de acuerdo a sus características principales.
 
@@ -297,6 +297,68 @@ f. Se han incluido las conclusiones y su justificación.
 
 **Incidencias de Ciberseguridad**
 
+En este módulo no lo hemos dividido por temas. Pero el contenido común ha sido:
+
+Desarrollo de planes de prevención y concienciación en ciberseguridad:
+
+−	 Principios generales en materia de ciberseguridad.
+
+−	 Normativa de protección del puesto del trabajo.
+
+−	 Plan de formación y concienciación en materia de ciberseguridad.
+
+−	 Materiales de formación y concienciación.
+
+−	 Auditorías internas de cumplimiento en materia de prevención.
+
+Auditoría de incidentes de ciberseguridad:
+
+−	 Taxonomía de incidentes de ciberseguridad.
+
+−	 Controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes: tipos y fuentes
+
+−	 Controles, herramientas y mecanismos de detección e identificación de incidentes de seguridad física.
+
+−	 Controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes a través de la investigación en fuentes abiertas (OSINT).
+
+−	 Clasificación, valoración, documentación, seguimiento inicial de incidentes de ciberseguridad.
+
+Investigación de los incidentes de ciberseguridad:
+
+−	 Recopilación de evidencias.
+
+−	 Análisis de evidencias.
+
+−	 Investigación del incidente
+
+−	 Intercambio de información del incidente con proveedores u organismos competentes.
+
+−	 Medidas de contención de incidentes.
+
+Implementación de medidas de ciberseguridad:
+
+−	 Desarrollar procedimientos de actuación detallados para dar respuesta, mitigar, eliminar o contener los tipos de incidentes.
+
+−	 Implantar capacidades de ciberresiliencia.
+
+−	 Establecer flujos de toma de decisiones y escalado interno y/o externo adecuados.
+
+−	 Tareas para reestablecer los servicios afectados por incidentes.
+
+−	 Documentación
+
+−	 Seguimiento de incidentes para evitar una situación similar.
+
+Detección y documentación de incidentes de ciberseguridad:
+
+−	 Desarrollar procedimientos de actuación para la notificación de incidentes.
+
+−	 Notificación interna de incidentes.
+
+−	 Notificación de incidentes a quienes corresponda.
+
+[Contenido de este módulo](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Incidentes%20de%20Cibrseguridad/Unidad%201)
+
 
 **Normativas de Ciberseguridad**
 
@@ -381,4 +443,24 @@ e. Se han determinado e implementado los controles necesarios para garantizar el
 [Actividades realizadas en la Unidad 5]()
 
 [Todas las Actividades de este módulo](https://github.com/Cdiazm21/Ciberseguridad/tree/main/Ciberseguridad/Normativas%20de%20Ciberseguridad)
+
+
 **Bastionado de redes**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
