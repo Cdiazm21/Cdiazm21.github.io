@@ -4,12 +4,12 @@
   description: Curriculum de Carlos Diaz Montes
 
 - name: Curso de Hacking Web
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://pixabay.com/es/photos/hackear-hacker-computadora-internet-1685092/
   link: https://cdiazm21.github.io/cursos/hacking_web.pdf
   description: Curso de Hacking web
 
 - name: Curso de Hacking Tools
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://cdn.pixabay.com/photo/2021/01/02/12/39/lock-5881443_640.jpg
   link: https://cdiazm21.github.io/cursos/hacking_tools__blue_team.pdf
   description: Curso de Hacking Tools:Blue Team
 
@@ -19,7 +19,7 @@
   description: Curso OSINT. Técnicas de investigación e inteligencia en fuentes abiertas
 
 - name: Curso de análisis de malware
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://cdn.pixabay.com/photo/2021/07/31/15/02/hacker-6512174_640.jpg
   link: https://cdiazm21.github.io/cursos/análisis_de_malware.pdf
   description: Curso de análisis de malware
 
