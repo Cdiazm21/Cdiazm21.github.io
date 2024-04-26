@@ -4,12 +4,17 @@
   description: Curriculum de Carlos Diaz Montes
 
 - name: Curso de Hacking Web
-  image: https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_640.jpg
+  image: https://cdn.openwebinars.net/media/academy/course/hacking-web-card.jpg
   link: https://cdiazm21.github.io/cursos/hacking_web.pdf
   description: Curso de Hacking web
 
+- name: Curso de Hacking Tools & Forensic
+  image: https://cdn.openwebinars.net/media/fbads-hacking-tools-red.jpg
+  link: https://cdiazm21.github.io/cursos/hacking_red_team.pdf
+  description: Curso de Hacking Tools and forensic:Red Team
+
 - name: Curso de Hacking Tools
-  image: https://cdn.pixabay.com/photo/2021/01/02/12/39/lock-5881443_640.jpg
+  image: https://cdn.openwebinars.net/media/fbads-hacking-tools-blue.jpg
   link: https://cdiazm21.github.io/cursos/hacking_tools__blue_team.pdf
   description: Curso de Hacking Tools:Blue Team
 
