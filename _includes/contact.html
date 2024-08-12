@@ -7,14 +7,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         .icon-size {
-            font-size: 31px; /* Tamaño predeterminado de íconos en 31 píxeles */
+            font-size: 31px; /* Tamaño de íconos en 31 píxeles */
         }
         .icon-size-small {
             font-size: 15.5px; /* Tamaño de íconos en 15.5 píxeles */
         }
-        .icon-container i:nth-of-type(-n+4) {
-            /* Aplica el tamaño pequeño solo a los primeros 4 iconos */
+        /* Aplica el tamaño pequeño solo a los primeros 4 iconos en el contenedor de contacto */
+        .contact-icons .icon-size-small {
             font-size: 15.5px;
+        }
+        .icon-container .icon-size {
+            font-size: 31px;
         }
     </style>
 </head>
