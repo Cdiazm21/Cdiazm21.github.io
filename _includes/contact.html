@@ -1,67 +1,101 @@
-<section class="hero is-fullheight has-text-centered" id="contact">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - Tu Sitio</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <div class="hero-body">
-        <div class="container">
-            {% unless site.facebook_username == %}
-            <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fab fa-facebook-messenger"></i>Buscame en Messenger
-            </a>
-            {% endunless %}
-            {% unless site.email == %}
-            <a id="contact-button" href="mailto:{{site.email}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fas fa-envelope"></i>Escribeme un Email
-            </a>
-            {% endunless %}
-            {% unless site.twitter_username == %}
-            <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fab fa-twitter"></i>Echa un vistazo en Twitter
-            </a>
-            
-            {% endunless %}
-            {% unless site.telefono == %}
-            <a id="contact-button" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinilos-stica.es%2Fvinilos-simbolos%2F1444-simbolo-telefono.html&psig=AOvVaw1CBlcz2IElf8MZPeUnt_M8&ust=1679844308623000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODB1O2x9_0CFQAAAAAdAAAAABAE"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fas fa-envelope"></i>+34 629594937
-            </a>
-
-
-            {% endunless %}
-            <hr>
-                <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                Puedes buscarme tambien en
-            </h3>
-            <div class="column is-full is-size-3">
+    <style>
+        .icon-size {
+            font-size: 31px; /* Tamaño de íconos en 31 píxeles */
+        }
+    </style>
+</head>
+<body>
+    <section class="hero is-fullheight has-text-centered" id="contact">
+        <div class="hero-body">
+            <div class="container">
                 {% unless site.facebook_username == %}
-                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
+                <a id="contact-button" href="https://m.me/{{site.facebook_username}}"
+                    class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                    target="_blank">
+                    <i class="fab fa-facebook-messenger icon-size"></i> Buscame en Messenger
+                </a>
                 {% endunless %}
-                {% unless site.twitter_username == %}
-                <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
-                {% endunless %}
-                {% unless site.instagram_username ==  %}
-                <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
-                {% endunless %}
-                {% unless site.linkedin_username ==  %}
-                <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
-                {% endunless %}
-                {% unless site.github_username ==  %}
-                <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
-                {% endunless %}
-                {% unless site.youtube_channel_id ==  %}
-                <a href="http://www.youtube.com/channel/{{site.youtube_channel_id}}" target="_blank" class="has-text-black"><i class="fab fa-youtube"></i></a>
-                {% endunless %}
-                {% unless site.spotify_username ==  %}
-                <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
-                {% endunless %}
-
                 
+                {% unless site.email == %}
+                <a id="contact-button" href="mailto:{{site.email}}"
+                    class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                    target="_blank">
+                    <i class="fas fa-envelope icon-size"></i> Escríbeme un Email
+                </a>
+                {% endunless %}
+                
+                {% unless site.twitter_username == %}
+                <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
+                    class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                    target="_blank">
+                    <i class="fab fa-twitter icon-size"></i> Echa un vistazo en Twitter
+                </a>
+                {% endunless %}
+                
+                {% unless site.telefono == %}
+                <a id="contact-button" href="tel:+34629594937"
+                    class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
+                    target="_blank">
+                    <i class="fas fa-phone icon-size"></i> +34 629594937
+                </a>
+                {% endunless %}
+                
+                <hr>
+                <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+                    Puedes buscarme también en
+                </h3>
+                <div class="column is-full is-size-3">
+                    {% unless site.facebook_username == %}
+                    <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-facebook icon-size"></i>
+                    </a>
+                    {% endunless %}
+                    
+                    {% unless site.twitter_username == %}
+                    <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-twitter icon-size"></i>
+                    </a>
+                    {% endunless %}
+                    
+                    {% unless site.instagram_username == %}
+                    <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-instagram icon-size"></i>
+                    </a>
+                    {% endunless %}
+                    
+                    {% unless site.linkedin_username == %}
+                    <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-linkedin icon-size"></i>
+                    </a>
+                    {% endunless %}
+                    
+                    {% unless site.github_username == %}
+                    <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-github icon-size"></i>
+                    </a>
+                    {% endunless %}
+                    
+                    {% unless site.youtube_channel_id == %}
+                    <a href="http://www.youtube.com/channel/{{site.youtube_channel_id}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-youtube icon-size"></i>
+                    </a>
+                    {% endunless %}
+                    
+                    {% unless site.spotify_username == %}
+                    <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black">
+                        <i class="fab fa-spotify icon-size"></i>
+                    </a>
+                    {% endunless %}
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+</body>
+</html>
