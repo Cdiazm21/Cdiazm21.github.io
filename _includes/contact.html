@@ -10,64 +10,18 @@
                 Buscame en Messenger
             </a>
             {% endunless %}
-        </div>
-    </div>
-</section>
-
-            {% endunless %}
             {% unless site.email == %}
             <a id="contact-button" href="mailto:{{site.email}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fas fa-envelope"></i>Escribeme un Email
+                <!-- Ícono de Email SVG -->
+                <svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M502.3 190.8l-192-128c-10.2-6.8-23.8-6.8-34 0l-192 128c-10.2 6.8-15.7 18.8-15.7 31.2v256c0 12.4 5.5 24.4 15.7 31.2l192 128c10.2 6.8 23.8 6.8 34 0l192-128c10.2-6.8 15.7-18.8 15.7-31.2V222c0-12.4-5.5-24.4-15.7-31.2zm-238.3 114.3L72 135.7V128c0-13.3 10.7-24 24-24h320c13.3 0 24 10.7 24 24v7.7l-192 169.4zm-28.3 22.7l156.6-136.5c7.2-6.3 11.7-15.5 11.7-24.6V128c0-26.5-21.5-48-48-48H128c-26.5 0-48 21.5-48 48v22.7c0 9.1 4.5 18.3 11.7 24.6L232 328.8c7.2 6.3 17.1 9.8 27.7 9.8s20.5-3.5 27.7-9.8zm-67.4-8.7c-15.5-13.5-24.3-32.3-24.3-52.7v-3.8l113.1 102.5c-8.4 7.6-18.9 11.9-30.2 11.9s-21.8-4.3-30.2-11.9zm244.5-27.3c0 20.4-8.8 39.2-24.3 52.7-8.4 7.6-18.9 11.9-30.2 11.9s-21.8-4.3-30.2-11.9L292.7 294v-3.8c0-20.4 8.8-39.2 24.3-52.7 8.4-7.6 18.9-11.9 30.2-11.9s21.8 4.3 30.2 11.9c15.5 13.5 24.3 32.3 24.3 52.7zm-12.8-108.8v-7.7c0-13.3-10.7-24-24-24H128c-13.3 0-24 10.7-24 24v7.7L256 327.4l156.6-136.5z"></path></svg>
+                Escribeme un Email
             </a>
             {% endunless %}
             {% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"
                 class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
                 target="_blank">
-                <i class="fab fa-twitter"></i>Echa un vistazo en Twitter
-            </a>
-            
-            {% endunless %}
-            {% unless site.telefono == %}
-            <a id="contact-button" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinilos-stica.es%2Fvinilos-simbolos%2F1444-simbolo-telefono.html&psig=AOvVaw1CBlcz2IElf8MZPeUnt_M8&ust=1679844308623000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODB1O2x9_0CFQAAAAAdAAAAABAE"
-                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined has-text-weight-semibold column is-two-fifths"
-                target="_blank">
-                <i class="fas fa-envelope"></i>+34 629594937
-            </a>
-
-
-            {% endunless %}
-            <hr>
-                <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                Puedes buscarme tambien en
-            </h3>
-            <div class="column is-full is-size-3">
-                {% unless site.facebook_username == %}
-                <a href="http://www.facebook.com/{{site.facebook_username}}" target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
-                {% endunless %}
-                {% unless site.twitter_username == %}
-                <a href="https://twitter.com/intent/user?screen_name={{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
-                {% endunless %}
-                {% unless site.instagram_username ==  %}
-                <a href="http://www.instagram.com/{{site.instagram_username}}" target="_blank" class="has-text-black"><i class="fab fa-instagram"></i></a>
-                {% endunless %}
-                {% unless site.linkedin_username ==  %}
-                <a href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
-                {% endunless %}
-                {% unless site.github_username ==  %}
-                <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
-                {% endunless %}
-                {% unless site.youtube_channel_id ==  %}
-                <a href="http://www.youtube.com/channel/{{site.youtube_channel_id}}" target="_blank" class="has-text-black"><i class="fab fa-youtube"></i></a>
-                {% endunless %}
-                {% unless site.spotify_username ==  %}
-                <a href="http://open.spotify.com/user/{{site.spotify_username}}" target="_blank" class="has-text-black"><i class="fab fa-spotify"></i></a>
-                {% endunless %}
-
-                
-            </div>
-        </div>
-    </div>
-</section>
+                <!-- Ícono de Twitter SVG -->
+                <svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data
